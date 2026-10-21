@@ -350,7 +350,6 @@ section h2 {
     flex-wrap: wrap;
     margin-top: 2rem;
 }
-```css
 .author-links {
     display: flex;
     flex-direction: column;
